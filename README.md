@@ -81,7 +81,7 @@ Berikut merupakan flow customer journey pada saat berbelanja di supermarket Andi
 4. Test Case 4:
    Customer meng-input lagi keseluruhan belanja.
    Di sini dapat kita lihat bahwa method ini dapat menghitung total beserta diskonnya.
-![test4](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/93e0e251-4735-48b1-9e67-371326d60ccc)
+![test4](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/fdb7f740-e639-4695-a40a-900687265c65)
 
 **CONCLUSION and SUGGESTION**
 Mesin Cashier ini tentunya sangat membantu dalam operasional supermarket ke depannya. Dilihat dari keefektifan customer dalam menginput dan mengatur transaksinya sendiri.
