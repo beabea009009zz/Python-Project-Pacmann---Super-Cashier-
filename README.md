@@ -1,4 +1,4 @@
-# Python-Project-Pacmann - Super-Cashier
+# Python Project-Pacmann - Super Cashier
 
 **LATAR BELAKANG MASALAH**
 
