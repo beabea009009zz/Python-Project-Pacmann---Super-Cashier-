@@ -4,7 +4,8 @@
 
 Andi adalah pemilik supermarket besar di salah satu kota di indonesia memiliki rencana untuk mempercepat proses bisnis dengan membuat sistem kasir self service untuk customer yang datang ke supermarketnya. Sehingga customer bisa melakukan self service untuk transaksi yang dilakukan. Oleh karena itu, Andi meminta temannya yang merupakan seorang programmer untuk membuat program cashier self service.
 
-**Objectives dan Requirements**
+**OBJECTIVES DAN REQUIREMENTS**
+
 Tujuan dari pembuatan program ini adalah untuk memudahkan customer dan juga pemilik supermarket dalam transaksi pembelian.
 List requirements untuk membuat program super cashier ini adalah membuat fitur-fitur antara lain sebagai berikut:
 1. Fitur penambahan item
@@ -16,9 +17,12 @@ List requirements untuk membuat program super cashier ini adalah membuat fitur-f
 7. Fitur check order
 8. Fitur menu pembayaran
 
+**FLOWCHART**
+
+Berikut merupakan flow customer journey pada saat berbelanja di supermarket Andi.
 
 
-penjelasan flowchart --> done
+
 
 penjelasan mengenai functions/atribut yang dibuat
 
