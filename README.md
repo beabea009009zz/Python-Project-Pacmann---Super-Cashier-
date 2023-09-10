@@ -20,7 +20,8 @@ List requirements untuk membuat program super cashier ini adalah membuat fitur-f
 **FLOWCHART**
 
 Berikut merupakan flow customer journey pada saat berbelanja di supermarket Andi.
-![flowchart](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/16f9372d-7bb1-46b8-bf85-2712b5380c1e)
+<img width="1262" alt="flow" src="https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/62a94fa4-eb29-4d9d-95d9-6215ce7db166">
+
 
 **MODULES AND FUNCTION DESCRIPTION**
 
