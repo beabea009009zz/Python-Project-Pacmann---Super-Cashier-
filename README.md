@@ -34,7 +34,7 @@ Berikut merupakan flow customer journey pada saat berbelanja di supermarket Andi
    - nama item
    - jumlah item
    - harga item
-![add item](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/fb339efc-1c9d-4ee8-b0ca-79d7dc57e28e)
+   ![add item](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/fb339efc-1c9d-4ee8-b0ca-79d7dc57e28e)
 
 3. **Fitur Update Nama Item**
    Fitur yang digunakan untuk update nama item apabila dari customer mau melakukan perubahan nama.
@@ -66,7 +66,7 @@ Berikut merupakan flow customer journey pada saat berbelanja di supermarket Andi
    - Nama Item : Ayam Goreng, Qty : 2, Harga : 20000
    - Nama Item : Pasta Gigi, Qty : 3, Harga : 15000
    Result : As Expected
-![Test1](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/702ffcc0-88e8-4f10-818b-65d9ddc22be8)
+   ![Test1](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/702ffcc0-88e8-4f10-818b-65d9ddc22be8)
 
 2. Test Case 2:
    Customer ingin menghapus pasta gigi dari list belanja.
@@ -75,13 +75,13 @@ Berikut merupakan flow customer journey pada saat berbelanja di supermarket Andi
 
 3. Test Case 3:
    Customer ingin melakukan reset transaction untuk semua list belanja.
-  Result : As Expected
-![test 3](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/1cf39755-5122-4df7-b8eb-7458a8dac073)
+   Result : As Expected
+   ![test 3](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/1cf39755-5122-4df7-b8eb-7458a8dac073)
 
-4. Test Case 4:
+5. Test Case 4:
    Customer meng-input lagi keseluruhan belanja.
    Di sini dapat kita lihat bahwa method ini dapat menghitung total beserta diskonnya.
-![test4](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/fdb7f740-e639-4695-a40a-900687265c65)
+   ![test4](https://github.com/beabea009009zz/Python-Project-Pacmann---Super-Cashier-/assets/130691185/fdb7f740-e639-4695-a40a-900687265c65)
 
 **CONCLUSION and SUGGESTION**
 Mesin Cashier ini tentunya sangat membantu dalam operasional supermarket ke depannya. Dilihat dari keefektifan customer dalam menginput dan mengatur transaksinya sendiri.
